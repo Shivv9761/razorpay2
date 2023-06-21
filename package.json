@@ -11,4 +11,5 @@
   "dependencies": {
     "feather": "^0.0.5"
   }
+ ,"vite":"vite build"
 }
